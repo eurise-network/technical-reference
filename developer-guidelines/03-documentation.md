@@ -19,9 +19,9 @@ It must be stored along the code, ideally in the repository's `docs` folder.
    * How to build the code.
    * How to package the code.
 
-
 1. Inline code documentation
-   * Always adhere to the language's standard. When in doubt follow the [Google Style Guides](https://google.github.io/styleguide/).
+   * Always adhere to the language's standard.
+   When in doubt, follow the [Google Style Guides](https://google.github.io/styleguide/).
 
 
 
