@@ -5,9 +5,7 @@ All development should be open source from the start, i.e. publish every commit.
 1. Code must be in Version Control.
    * Start using version control from the start.
    * If in doubt, use [Git](https://git-scm.com/).
-   * Use a central repository such as [GitHub](https://github.com/pricing),
-   [GitLab](https://about.gitlab.com/gitlab-com/),
-   [Bitbucket](https://bitbucket.org/product/pricing) or host your own.
+   * Implement a [Code Hosting Policy](../policies/code-hostig.md).
    * Use meaningful commit [messages](https://xkcd.com/1296/).
 
 1. Use an appropriate [OSI](https://opensource.org/licenses) approved license.
