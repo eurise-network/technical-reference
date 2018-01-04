@@ -18,6 +18,10 @@ All development should be open source from the start, i.e. publish every commit.
 
 1. [Documentation](03-documentation.md).
 
+1. Use existing [tooling](04-tooling.md) to support development workflows.
+
+1. Ensure maximal [interoperability](05-interoperability.md).
+
 1. Add a code of conduct in a `CODE_OF_CONDUCT.md`.
 
 1. Specify contribution policies in a `CONTRIBUTING.md`.

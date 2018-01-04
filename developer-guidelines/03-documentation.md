@@ -2,6 +2,10 @@
 
 Documentation is fundamental to ensure usability and usefulness of the software.
 It must be stored along the code, ideally in the repository's `docs` folder.
+Basic documentation should also be included in the [Readme](02-readme.md).
+
+Documentation is relevant in many forms, each of wich should by addressed for different audiences
+with variying degree of experience and knowledge.
 
 1. User documentation
    Include a documentation for end users, including e.g.
@@ -10,12 +14,19 @@ It must be stored along the code, ideally in the repository's `docs` folder.
    * How-Tos
    * FAQs
    * Screencasts
+   * API documentation
 
 1. Developer documentation
    Provides instructions for developers.
 
    * How to set up the environment.
-   * Dependencies.
+   * Dependencies, including
+
+     * Supported operating systems.
+     * Required libraries.
+     * External dependencies.
+
+   * Requirements, e.g. hardware, architecture, CPU, RAM, disk space and network bandwidth.
    * How to build the code.
    * How to package the code.
 
@@ -23,6 +34,11 @@ It must be stored along the code, ideally in the repository's `docs` folder.
    * Always adhere to the language's standard.
    When in doubt, follow the [Google Style Guides](https://google.github.io/styleguide/).
 
+## Services
 
+If the software works as a deamon, i.e. a micro service, additional operation documentation is required:
 
+* Configuration instructions
+* Startup script (e. g. init or systemd)
+* Monitoring setup, ideally through a monitoring endpoint.
 
