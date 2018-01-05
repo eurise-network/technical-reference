@@ -10,6 +10,7 @@ All development should be open source from the start, i.e. publish every commit.
 
 1. Use an appropriate [OSI](https://opensource.org/licenses) approved license.
    * Decide on an appropriate license before you first commit.
+   * Ensure the license is compatible with dependencies.
    * If in doubt, choose [APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/)
    or [EUPL-1.1](https://choosealicense.com/licenses/eupl-1.1/).
    * Add the text in a `LICENSE.txt`.
@@ -21,6 +22,9 @@ All development should be open source from the start, i.e. publish every commit.
 1. Use existing [tooling](04-tooling.md) to support development workflows.
 
 1. Ensure maximal [interoperability](05-interoperability.md).
+
+1. Keep a [changelog](06-changelog.md) in a `CHANGELOG.md`.
+   * Implement a [release policy](../policies/releasing.md)
 
 1. Add a code of conduct in a `CODE_OF_CONDUCT.md`.
 
