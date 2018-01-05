@@ -1,5 +1,7 @@
 # Contributing to the Technical Reference
 
+Development of the Technical Reference is still in its early phases, conducted via the [GitHub project](https://github.com/DARIAH-ERIC/technical-reference).
+
 Contributions are highly welcome.
 
 ## Code of Conduct
