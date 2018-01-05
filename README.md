@@ -14,6 +14,14 @@ It is particularly recommended to adopt the
 [Recommendations to encourage best practices in research software](https://softdev4research.github.io/recommendations/)
 whenever starting a new project.
 
+## Contents
+
+The reference currently contains
+
+* [Developer Guidelines](developer-guidelines/01-basics.md)
+* [Operational Guidelines](operational-guidelines/01-basics.md)
+* and a [Glossary](glossary.md).
+
 ## Further reading
 
 When starting a software project, consider using the
