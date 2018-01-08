@@ -1,6 +1,6 @@
 task default: %w[lint]
 
 task :lint do
-  exec 'mdl .'
+  exec 'find . -path ./vendor -prune -o -name "*.md" | xargs mdl'
 end
 
