@@ -3,6 +3,13 @@ sudo: false
 dist: trusty
 language: ruby
 cache: bundler
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
 before_install:
   - bundle -v
   - rm Gemfile.lock || true

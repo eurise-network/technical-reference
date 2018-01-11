@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-readme-index
 
+repository: dariah-eric/technical-reference
