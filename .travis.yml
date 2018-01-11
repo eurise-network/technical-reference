@@ -19,6 +19,8 @@ before_install:
   - bundle -v
 script:
   - 'bundle exec rake lint'
+  - 'bundle exec jekyll build'
+  - 'bundle exec rake htmlproofer'
 rvm:
   - 2.4.1
 
