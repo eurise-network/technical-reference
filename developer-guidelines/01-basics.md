@@ -12,7 +12,7 @@ All development should be open source from the start, i.e. publish every commit.
    * Decide on an appropriate license before you first commit.
    * Ensure the license is compatible with dependencies.
    * If in doubt, choose [APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/)
-   or [EUPL-1.1](https://choosealicense.com/licenses/eupl-1.1/).
+   or [EUPL-1.2](https://choosealicense.com/licenses/eupl-1.2/).
    * Add the text in a `LICENSE.txt`.
 
 1. Maintain a [`README.md`](02-readme.md).
