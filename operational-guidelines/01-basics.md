@@ -4,6 +4,6 @@
 1. Establish processes for recurring actions
 1. Automate as much as possible
 1. Implement and verify backups
-1. Montor the infrastructure
+1. Monitor the infrastructure
 1. Consider software configuration management
 

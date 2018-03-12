@@ -7,7 +7,7 @@ Possibilities are
 1. An appropriate code editor or IDE must be used.
 
    While the individual person should be free to choose the solution that best fits their need, it should provide standard features such as
-   syntax highlihting and code completion for all relevant languages.
+   syntax highlighting and code completion for all relevant languages.
 
    Use [EditorConfig](http://editorconfig.org/) to ensure consistency of code submitted by all developers.
 

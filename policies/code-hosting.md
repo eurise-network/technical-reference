@@ -47,9 +47,8 @@ Always ensure rights are managed by a sufficient number of people.
 * At least two people should be owner of the organisation.  
   It may be appropriate to have two from each institution involved in the project.
 
-* Create an institutional accounts that becomes an owner of all organisations
-  the intitutions is involved in and make sure access is ensured independent
-  from individual employees.
+* Create an institutional account that becomes an owner of all organisations
+  the institution is involved in and make sure access is ensured from individual employees.
 
 Organisations should have a policy on who can be a member and how repository
 maintainers and maintenance status are defined and communicated.
