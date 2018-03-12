@@ -20,6 +20,7 @@ The reference currently contains
 
 * [Developer Guidelines](developer-guidelines/01-basics.md)
 * [Operational Guidelines](operational-guidelines/01-basics.md)
+* [Quality Software Checklist](quality/software-checklist.md)
 * and a [Glossary](glossary.md).
 
 ## Further reading
