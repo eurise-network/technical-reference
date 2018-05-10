@@ -23,6 +23,8 @@ All development should be open source from the start, i.e. publish every commit.
 
 1. Ensure maximal [interoperability](05-interoperability.md).
 
+1. Ensure your software is usable and accessible.
+
 1. Keep a [changelog](06-changelog.md) in a `CHANGELOG.md`.
    * Implement a [release policy](../policies/releasing.md)
 
