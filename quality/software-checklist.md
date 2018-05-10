@@ -14,17 +14,17 @@
 - [ ] Are maintainer and development status clear, including contact information?
 - [ ] Are the requirements listed and up to date?
 - [ ] Is the interface responsive and accessible?
-- [ ] Is copyright and authorship clear?
+- [ ] Is copyright and authorship clear and accessible?
 - [ ] Is there a contribution guide?
 
 ## Documentation
 
-- [ ] Is there an accessible getting started guide?
+- [ ] Is there an accessible low-level getting started guide?
 - [ ] Is there an accessible user guide?
 - [ ] Is there a full user documentation?
 - [ ] Does the user interface link to held references?
 - [ ] Are there examples, FAQs and tutorials?
-- [ ] Are known issues documented?
+- [ ] Are known issues documented and easily accessible for all user groups?
 
 ## Development
 
@@ -37,11 +37,13 @@
 - [ ] Is the software localised (l10n)? English is mandatory.
 - [ ] Is there a test suite?
 - [ ] Is test coverage above 80%?
+- [ ] Are the tests run on a regular and frequent basis, e.g. on commit/every night/...?
+- [ ] Do you have and stick to a policy for security by design?
 
 ## Interoperability
 
 - [ ] Are file formats standard compliant and documented?
-- [ ] Is the API standards compliant?
+- [ ] Is the API standard compliant?
 - [ ] Does it provide a monitoring endpoint?
 - [ ] Does it adhere to an interface style guide?
 - [ ] Does it use existing authentication systems (OAuth2/eduGain)?
@@ -50,9 +52,7 @@
 
 - [ ] Are software requirements such as operating system, required libraries and dependencies specified including versions?
 - [ ] Are hardware requirements for CPU, RAM, HDD, Network specified?
-- [ ] Are there deployment instruction?
+- [ ] Are there deployment instructions?
 - [ ] Is there a comprehensive and fully documented example configuration?
 - [ ] Is a startup script provided?
 - [ ] Are there troubleshooting guides?
-
-
