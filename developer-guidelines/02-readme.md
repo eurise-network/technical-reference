@@ -1,21 +1,21 @@
 # The README.md
 
 The entry to the repository is through a `README.md` in the root directory.
-Its purpose is to give a consive but comprehensive introduction to the project.
-It should provide links to further detailed documentation, websites or other background information.
-Depending on the relevant eco system, specific guides or templates for readmes exist.
+Its purpose is to give a concise but comprehensive introduction to the project.
+It should provide links to further (more detailed) documentation, websites or other background information.
+Depending on the relevant eco system, specific guides or templates for READMEs exist.
 
-The following basic information must be provided.
+The following basic information must be provided:
 
-1. Project Name
-1. Short but meaningful descriptive summary of the repository
-1. Maintenance status
+1. The project name
+1. A short but meaningful descriptive summary of the repository
+1. The maintenance status
 
-The following questions must be answered.
+The following questions must be answered:
 
 1. What does the software do?
 1. What is the intended audience?
-1. What are alternatives, and how do they differ?
+1. What are alternatives to the software, and how do they differ?
 1. How to get started?
    * Requirements
    * Binary download location
@@ -23,7 +23,7 @@ The following questions must be answered.
    * Installation instructions
    * Quickstart examples
    * Link to full user documentation
-1. How to join development?
+1. How can others join the development?
    * Coding styles used
    * API design
    * Toolchain and frameworks used
@@ -32,8 +32,10 @@ The following questions must be answered.
    * Test suite details
    * Contribution guides
 1. Release details and versioning
-1. List of Contributors
-1. License
-1. Acknowlegedments, e.g. funding
+1. Who has contributed to the software?
+1. Which license is used?
+In most cases a link to the LICENSE.txt is sufficient.
+1. Who has to be acknowledged? I.e. who has played a significant role for the creating of the software? 
+This can e.g. include funding, research communities, or coworkers that are not part of the project but have given advice and/or input to the development process.
 
 
