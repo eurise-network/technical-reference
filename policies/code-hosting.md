@@ -4,13 +4,13 @@
 
 Make sure to publish your code in a public repository.
 
-* There are a number of well-known commercial solutions
+* There are a number of well-known commercial solutions, such as:
 
   * [GitHub](https://github.com/pricing)
   * [GitLab](https://about.gitlab.com/gitlab-com/)
   * [Bitbucket](https://bitbucket.org/product/pricing)
 
-  They all offer some free options and using them has a number of advantages
+  They all offer some free options and using them has a number of advantages, e.g.:
 
   * Good and established usability
   * High visibility of you code
@@ -40,7 +40,7 @@ When using GitHub, implementing a suitable policy is recommended.
 #### Organisations
 
 GitHub organisations can be used to group all repositories of an institution or a research project.
-It should be clearly stated, who is responsible for an organisation, ideally through the organsiation's GitHub Page.
+It should be clearly stated who is responsible for an organisation, ideally through the organsiation's GitHub Page.
 
 Always ensure rights are managed by a sufficient number of people.
 
@@ -48,7 +48,7 @@ Always ensure rights are managed by a sufficient number of people.
   It may be appropriate to have two from each institution involved in the project.
 
 * Create an institutional account that becomes an owner of all organisations
-  the institution is involved in and make sure access is ensured from individual employees.
+  the institution is involved in and makes sure access is ensured from individual employees.
 
 Organisations should have a policy on who can be a member and how repository
 maintainers and maintenance status are defined and communicated.
@@ -56,8 +56,8 @@ maintainers and maintenance status are defined and communicated.
 #### Backup
 
 As GitHub is a commercial company, the service provided through GitHub is subject to change through corporate development.
-It is highly recommended to set up an automated backup system, ensure that a copy
-of all code and metadata (including issues, wikis etc.) exist.
+It is highly recommended to set up an automated backup system, in order to ensure that a copy
+of all code and metadata (including issues, wikis etc.) exists.
 
 #### Features
 

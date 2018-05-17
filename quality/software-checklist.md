@@ -41,18 +41,16 @@
 ## Interoperability
 
 - [ ] Are file formats standard compliant and documented?
-- [ ] Is the API standards compliant?
+- [ ] Is the API standard compliant?
 - [ ] Does it provide a monitoring endpoint?
-- [ ] Does it adhere to interface style guide?
+- [ ] Does it adhere to an interface style guide?
 - [ ] Does it use existing authentication systems (OAuth2/eduGain)?
 
 ## Administration
 
 - [ ] Are software requirements such as operating system, required libraries and dependencies specified including versions?
 - [ ] Are hardware requirements for CPU, RAM, HDD, Network specified?
-- [ ] Are there deployment instruction?
+- [ ] Are there deployment instructions?
 - [ ] Is there a comprehensive and fully documented example configuration?
 - [ ] Is a startup script provided?
-- [ ] Are there troblushooting guides?
-
-
+- [ ] Are there troubleshooting guides?
