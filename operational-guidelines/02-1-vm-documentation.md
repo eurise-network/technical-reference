@@ -13,7 +13,7 @@ Documentation for virtual servers should include the following information.
   * Operating system
   * Human readable purpose
 
-* Wo knows about it?
+* Who knows about it?
 
   * Responsible system administrator
   * Secondary system administrators
@@ -21,7 +21,7 @@ Documentation for virtual servers should include the following information.
 
 * Which services does it run?
 
-  For each service, list the following
+  For each service, list the following:
 
   * Service name
   * Ports
@@ -31,11 +31,11 @@ Documentation for virtual servers should include the following information.
   * Data directories
   * Dependencies
 
-* How to fix it
+* How can it be fixed?
 
-  List possible emergency procedures for emergencies, such as
+  List possible procedures for emergencies, such as
 
-  * Wheter to try rebooting or remounting something
+  * Whether to try rebooting or remounting something
   * How to restore from backup
 
 

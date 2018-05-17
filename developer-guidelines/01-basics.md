@@ -3,25 +3,27 @@
 All development should be open source from the start, i.e. publish every commit.
 
 1. Code must be in Version Control.
-   * Start using version control from the start.
+   * Use version control from the beginning.
    * If in doubt, use [Git](https://git-scm.com/).
    * Implement a [Code Hosting Policy](../policies/code-hosting.md).
    * Use meaningful commit [messages](https://xkcd.com/1296/).
 
 1. Use an appropriate [OSI](https://opensource.org/licenses) approved license.
    * Decide on an appropriate license before you first commit.
-   * Ensure the license is compatible with dependencies.
+   * Ensure the license is compatible with all dependencies.
    * If in doubt, choose [APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/)
    or [EUPL-1.2](https://choosealicense.com/licenses/eupl-1.2/).
    * Add the text in a `LICENSE.txt`.
 
 1. Maintain a [`README.md`](02-readme.md).
 
-1. [Documentation](03-documentation.md).
+1. [Document](03-documentation.md) your software.
 
 1. Use existing [tooling](04-tooling.md) to support development workflows.
 
 1. Ensure maximal [interoperability](05-interoperability.md).
+
+1. Ensure your software is usable and accessible.
 
 1. Keep a [changelog](06-changelog.md) in a `CHANGELOG.md`.
    * Implement a [release policy](../policies/releasing.md)
