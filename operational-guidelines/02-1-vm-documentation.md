@@ -1,10 +1,10 @@
 # Documentation for virtual machines
 
-Documentation for virtual servers should include the following information.
+Documentation for virtual servers should include the following information:
 
 * Where is it?
 
-  * Location, e.g. rack number or virtualisation infrastructure
+  * Location, e.g. rack number or visualization infrastructure
   * IP address(es)
   * DNS name(s)
 
@@ -26,7 +26,7 @@ Documentation for virtual servers should include the following information.
   * Service name
   * Ports
   * Status verification
-  * Logfile
+  * Log file
   * Configuration file(s)
   * Data directories
   * Dependencies
@@ -37,5 +37,3 @@ Documentation for virtual servers should include the following information.
 
   * Whether to try rebooting or remounting something
   * How to restore from backup
-
-

@@ -5,7 +5,7 @@ It must be stored along the code, ideally in the repository's `docs` folder.
 Basic documentation should also be included in the [README](02-readme.md).
 
 Documentation is relevant in many forms, each of which should be addressed for different audiences
-with variying degree of experience and knowledge.
+with varying degree of experience and knowledge.
 
 1. User documentation
    Include a documentation for end users, including e.g.
@@ -21,9 +21,9 @@ with variying degree of experience and knowledge.
    * How to set up the environment.
    * Dependencies, including
 
-     * Supported operating systems.
-     * Required libraries.
-     * External dependencies.
+     * Supported operating systems
+     * Required libraries
+     * External dependencies
 
    * Requirements, e.g. hardware, architecture, CPU, RAM, disk space and network bandwidth.
    * How to build the code.
@@ -38,6 +38,5 @@ with variying degree of experience and knowledge.
 If the software works as a daemon, i.e. a micro service, additional operation documentation is required:
 
 * Configuration instructions
-* Startup script (e. g. init or systemd)
-* Monitoring setup, ideally through a monitoring endpoint.
-
+* Startup script (e.g. init or systemd)
+* Monitoring setup, ideally through a monitoring endpoint
