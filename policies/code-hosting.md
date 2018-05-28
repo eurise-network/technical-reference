@@ -14,7 +14,7 @@ Make sure to publish your code in a public repository.
 
   * Good and established usability
   * High visibility of you code
-  * Low barrier for findability and re-use
+  * Low barrier for find-ability and re-use
   * Good integration with other services and solutions
 
   When using commercial and in particular external services you must have

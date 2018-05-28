@@ -22,7 +22,7 @@ The following questions must be answered:
    * Binary download location
    * Build instructions with dependencies
    * Installation instructions
-   * Quickstart examples
+   * Quick start examples
    * Link to full user documentation
 1. How can others join the development?
    * Coding styles used
@@ -36,5 +36,5 @@ The following questions must be answered:
 1. Who has contributed to the software?
 1. Which license is used? In most cases a link to the LICENSE.txt is sufficient.
 1. Who has to be acknowledged? I.e. who has played a significant role for the creating of the software?
-  This can e.g. include funding, research communities, or coworkers that are not part of the project but
+  This can e.g. include funding, research communities, or co-workers that are not part of the project but
   have given advice and/or input to the development process.

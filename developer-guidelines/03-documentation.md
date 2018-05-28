@@ -13,7 +13,7 @@ with varying degree of experience and knowledge.
    * Tutorials
    * How-Tos
    * FAQs
-   * Screencasts
+   * Screen-casts
    * API documentation
 
 1. Developer documentation
@@ -38,5 +38,5 @@ with varying degree of experience and knowledge.
 If the software works as a daemon, i.e. a micro service, additional operation documentation is required:
 
 * Configuration instructions
-* Startup script (e.g. init or systemd)
+* Start-up script (e.g. init or systemd)
 * Monitoring setup, ideally through a monitoring endpoint
