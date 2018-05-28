@@ -14,7 +14,7 @@ Make sure to publish your code in a public repository.
 
   * Good and established usability
   * High visibility of you code
-  * Low barrier for findability and re-use
+  * Low barrier for find-ability and re-use
   * Good integration with other services and solutions
 
   When using commercial and in particular external services you must have
@@ -37,20 +37,20 @@ Make sure to publish your code in a public repository.
 
 When using GitHub, implementing a suitable policy is recommended.
 
-#### Organisations
+#### Organizations
 
-GitHub organisations can be used to group all repositories of an institution or a research project.
-It should be clearly stated who is responsible for an organisation, ideally through the organsiation's GitHub Page.
+GitHub organizations can be used to group all repositories of an institution or a research project.
+It should be clearly stated who is responsible for an organization, ideally stated in the organization's GitHub Page.
 
-Always ensure rights are managed by a sufficient number of people.
+Always ensure rights are managed by a sufficient number of people:
 
-* At least two people should be owner of the organisation.  
-  It may be appropriate to have two from each institution involved in the project.
+* At least two people should be owner of the organization.  
+  It may be appropriate to have two owners from each institution involved in the project.
 
-* Create an institutional account that becomes an owner of all organisations
+* Create an institutional account. This account becomes owner of all organizations
   the institution is involved in and makes sure access is ensured from individual employees.
 
-Organisations should have a policy on who can be a member and how repository
+Organizations should have a policy on who can be a member and how repository
 maintainers and maintenance status are defined and communicated.
 
 #### Backup
@@ -62,4 +62,3 @@ of all code and metadata (including issues, wikis etc.) exists.
 #### Features
 
 Use the features provided by GitHub, such as issue labels, issue and pull-request templates etc.
-

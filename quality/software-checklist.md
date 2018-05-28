@@ -52,5 +52,5 @@
 - [ ] Are hardware requirements for CPU, RAM, HDD, Network specified?
 - [ ] Are there deployment instructions?
 - [ ] Is there a comprehensive and fully documented example configuration?
-- [ ] Is a startup script provided?
+- [ ] Is a start-up script provided?
 - [ ] Are there troubleshooting guides?
