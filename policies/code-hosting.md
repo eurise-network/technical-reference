@@ -37,20 +37,20 @@ Make sure to publish your code in a public repository.
 
 When using GitHub, implementing a suitable policy is recommended.
 
-#### Organizations
+#### Organisations
 
-GitHub organizations can be used to group all repositories of an institution or a research project.
-It should be clearly stated who is responsible for an organization, ideally stated in the organization's GitHub Page.
+GitHub organisations can be used to group all repositories of an institution or a research project.
+It should be clearly stated who is responsible for an organisation, ideally stated in the organisation's GitHub Page.
 
 Always ensure rights are managed by a sufficient number of people:
 
-* At least two people should be owner of the organization.  
+* At least two people should be owner of the organisation.  
   It may be appropriate to have two owners from each institution involved in the project.
 
-* Create an institutional account. This account becomes owner of all organizations
+* Create an institutional account. This account becomes owner of all organisations
   the institution is involved in and makes sure access is ensured from individual employees.
 
-Organizations should have a policy on who can be a member and how repository
+Organisations should have a policy on who can be a member and how repository
 maintainers and maintenance status are defined and communicated.
 
 #### Backup

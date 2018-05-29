@@ -9,7 +9,8 @@ Development is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Writing style
 
 The Technical Reference is compiled in English, using British spelling in accordance with the
-[University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf)
+[University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf).
+Make sure to configure the spellchecker correctly, e.g. `hunspell -d en_GB-ise`.
 
 All documents must be markdown compliant, using ATX style headlines and a 140 character line length.
 Adherence is checked with [markdownlint](https://github.com/markdownlint/markdownlint).
