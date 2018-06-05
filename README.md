@@ -7,31 +7,14 @@ They rely heavily on work by the community and in particular
 [CESSDA Eric](https://www.cessda.eu/), [CLARIAH-NL](https://www.clariah.nl/), [DARIAH-DE](https://de.dariah.eu/) as well as the
 [Netherlands eScience Center](https://esciencecenter.nl/) and the [UK Software Sustainability Institute](https://www.software.ac.uk).
 
-To make use of these guides, implementing an institutional manual based on this is recommended.
-In many places, choices are pointed out but should be made for a specific manual.
 
-It is particularly recommended to adopt the
-[Recommendations to encourage best practices in research software](https://softdev4research.github.io/recommendations/)
-whenever starting a new project.
 
-## Contents
+To publish to the GitHub Pages do
+```
+git subtree split --branch gh-pages --prefix _build/html/
+git push origin gh-pages --force
+```
 
-The Technical Reference currently contains
-
-* [Developer Guidelines](developer-guidelines/01-basics.md)
-* [Operational Guidelines](operational-guidelines/01-basics.md)
-* [Software Quality Checklist](quality/software-checklist.md)
-* and a [Glossary](glossary.md).
-
-## Further reading
-
-When starting a software project, consider using the
-[Software Sustainability Institute](https://www.software.ac.uk)'s
-[Software Management Plan](https://www.software.ac.uk/software-management-plans).
-
-This work relies heavily on the
-[Netherlands eScience Center Guide](https://guide.esciencecenter.nl/) and the
-[CLARIAH Software Quality Guidelines](https://github.com/CLARIAH/software-quality-guidelines).
 
 ## Development
 
