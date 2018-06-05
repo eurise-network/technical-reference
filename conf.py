@@ -21,12 +21,17 @@
 
 project = 'Technical Reference'
 copyright = '2018, DARIAH'
-author = 'DARIAH'
+with open('AUTHORS') as authorsfile:
+    authorsstream = authorsfile.readlines()
+authors = [x.strip() for x in authorsstream]
+author = ', '.join(authors)
+
+rst_epilog = '.. |author_list| replace:: %s' % author
 
 # The short X.Y version
-version = ''
+version = '0.1'
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '0.1-SNAPSHOT'
 
 
 # -- General configuration ---------------------------------------------------
@@ -130,8 +135,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TechnicalReference.tex', 'Technical Reference Documentation',
-     'DARIAH', 'manual'),
+    (master_doc, 'TechnicalReference.tex', 'Technical Reference',
+     author, 'manual'),
 ]
 
 

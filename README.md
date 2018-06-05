@@ -7,6 +7,21 @@ They rely heavily on work by the community and in particular
 [CESSDA Eric](https://www.cessda.eu/), [CLARIAH-NL](https://www.clariah.nl/), [DARIAH-DE](https://de.dariah.eu/) as well as the
 [Netherlands eScience Center](https://esciencecenter.nl/) and the [UK Software Sustainability Institute](https://www.software.ac.uk).
 
+## Working with the TR
+
+The documents are compiled with Sphinx, install everything to an venv
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+Compile with
+```
+make clean
+make html
+make latexpdf
+```
 
 
 To publish to the GitHub Pages do

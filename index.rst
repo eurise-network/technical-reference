@@ -29,6 +29,10 @@ Management Plan <https://www.software.ac.uk/software-management-plans>`__.
    Release |release|.
    This documentation is also available as `PDF <TechnicalReference.pdf>`_.
 
+   The Technical Reference has been written by |author_list|.
+
+
+
 .. toctree::
    :hidden:
    :maxdepth: 2

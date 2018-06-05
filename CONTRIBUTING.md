@@ -12,8 +12,7 @@ The Technical Reference is compiled in English, using British spelling in accord
 [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf).
 Make sure to configure the spellchecker correctly, e.g. `hunspell -d en_GB-ise`.
 
-All documents must be markdown compliant, using ATX style headlines and a 140 character line length.
-Adherence is checked with [markdownlint](https://github.com/markdownlint/markdownlint).
+We use reStructuredText with a 140 character line length.
 
 ## Code contributions
 
@@ -22,4 +21,6 @@ We particularly invite pull requests with corrections or additions.
 
 If you do submit a PR, please follow the coding style and use clear commit messages and pull request descriptions.
 Please make sure commits are small and pull requests are grouped logically.
+
+All contributors are listed in the file `AUTHORS` and directly parsed into the output.
 
