@@ -1,26 +1,12 @@
 ---
 sudo: false
 dist: trusty
-language: ruby
-cache: bundler
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-addons:
-  apt:
-    packages:
-    - libcurl4-openssl-dev
-before_install:
-  - bundle -v
-  - rm Gemfile.lock || true
-  - gem update --system
-  - gem update bundler
-  - gem --version
-  - bundle -v
+language: python
+python:
+  - "3.6"
+install:
+  - pip install -r requirements.txt
 script:
-  - 'bundle exec rake lint'
-  - 'bundle exec jekyll build'
-  - 'bundle exec rake htmlproofer'
-rvm:
-  - 2.4.1
+  - make linkcheck
+  - make html
 
