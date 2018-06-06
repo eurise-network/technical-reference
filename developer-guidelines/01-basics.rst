@@ -29,11 +29,10 @@ All development should be made available publicly under `open source <https://op
 
 #. Ensure your software is usable and accessible.
 
-#. Keep a :doc:`changelog <06-changelog>` in a ``CHANGELOG.md``.
+#. Implement a :doc:`release policy <../policies/releasing>` and keep a :doc:`changelog <06-changelog>`.
 
-   -  Implement a :doc:`release policy <../policies/releasing>`.
+#. Add a code of conduct in a ``CODE_OF_CONDUCT.md``, like :download:`we do <../CODE_OF_CONDUCT.md>`.
 
-#. Add a code of conduct in a ``CODE_OF_CONDUCT.md``.
-
-#. Specify contribution policies in a ``CONTRIBUTING.md``. A legitimate policy can be that external contributions are not accepted and merged.
+#. Specify contribution policies in a ``CONTRIBUTING.md``, like :download:`we do <../CONTRIBUTING.md>`.
+   A legitimate policy can be that external contributions are not accepted and merged.
 
