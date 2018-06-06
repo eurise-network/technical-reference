@@ -8,6 +8,7 @@ All development should be made available publicly under `open source <https://op
    -  If in doubt, use `Git <https://git-scm.com/>`__.
    -  Implement a :doc:`Code Hosting Policy <../policies/code-hosting>`.
    -  Use meaningful commit `messages <https://xkcd.com/1296/>`__, cf. [ProGit]_ Sec. 5.2:
+
       - Capitalised summary with a maximum of 50 characters followed by a blank line.
       - Detailed but concise explanations in paragraphs or bullet points at 72 characters line length.
 
