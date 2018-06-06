@@ -4,7 +4,7 @@ Code Hosting Policies
 General Rules
 -------------
 
-Make sure to publish your code in a version control repository,
+Make sure to publish your code in a version control repository.
 
 -  There are a number of well-known commercial solutions, such as
 
@@ -41,8 +41,7 @@ On Site
 GitHub
 ~~~~~~
 
-When using GitHub, implementing a suitable policy is recommended.
-This should include the following considerations.
+When using GitHub, implementing a suitable policy is recommended. This should include the following considerations.
 
 Organisations
 ^^^^^^^^^^^^^

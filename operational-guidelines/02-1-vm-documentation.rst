@@ -1,11 +1,11 @@
-Documentation for virtual machines
-==================================
+Documentation for (virtual) servers
+===================================
 
 Documentation for virtual servers should include the following information:
 
 -  Where is it?
 
--  Location, e.g. rack number or visualization infrastructure
+-  Location, e.g. rack number or visualisation infrastructure
 -  IP address(es)
 -  DNS name(s)
 

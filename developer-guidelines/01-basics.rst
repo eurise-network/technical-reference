@@ -1,7 +1,7 @@
 Basics
 ======
 
-All development should be made available publicly under open source licences.
+All development should be made available publicly under `open source <https://opensource.org/osd>`__ licences.
 
 #. Use version control right from the beginning of a new project.
 
@@ -35,5 +35,5 @@ All development should be made available publicly under open source licences.
 
 #. Add a code of conduct in a ``CODE_OF_CONDUCT.md``.
 
-#. Specify contribution policies in a ``CONTRIBUTING.md``.
+#. Specify contribution policies in a ``CONTRIBUTING.md``. A legitimate policy can be that external contributions are not accepted and merged.
 

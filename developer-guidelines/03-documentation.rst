@@ -29,15 +29,14 @@ knowledge.
    -  How to build the code.
    -  How to package the code.
 
-#. Inline code documentation
+   Additionally, inline code documentation should be used as appropriate.
 
    -  Always adhere to the language's standard or well established once such as the `Google Style Guides <https://google.github.io/styleguide/>`__.
+   -  Document the *why* and not the *what*, cf. [CleanCode]_.
 
-Services
---------
+#. **Administration documentation**: Provide instructions for installation, configuration and maintenance, in particular when as a daemon
+   (e.g. a micro service).
 
-If the software works as a daemon, i.e. a micro service, additional operation documentation is required:
-
--  Configuration instructions
--  Start-up script (e.g. init or systemd)
--  Monitoring setup, ideally through a monitoring endpoint
+   -  Configuration instructions
+   -  Start-up script (e.g. init or systemd)
+   -  Monitoring setup, ideally through a monitoring endpoint
