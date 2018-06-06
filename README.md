@@ -4,7 +4,7 @@ This is the technical reference for the DARIAH Infrastructure.
 The documents contained in this repository are intended to form basic guidelines and references
 for development and maintenance of infrastructure services with DARIAH and beyond.
 They rely heavily on work by the community and in particular
-[CESSDA Eric](https://www.cessda.eu/), [CLARIAH-NL](https://www.clariah.nl/), [DARIAH-DE](https://de.dariah.eu/) as well as the
+[CESSDA ERIC](https://www.cessda.eu/), [CLARIAH-NL](https://www.clariah.nl/), [DARIAH-DE](https://de.dariah.eu/) as well as the
 [Netherlands eScience Center](https://esciencecenter.nl/) and the [UK Software Sustainability Institute](https://www.software.ac.uk).
 
 ## Working with the TR

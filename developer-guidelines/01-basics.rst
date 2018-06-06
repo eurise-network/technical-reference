@@ -1,13 +1,15 @@
 Basics
 ======
 
-All development should be open source from the start, i.e. every commit should be published.
+All development should be made available publicly under open source licences.
 
 #. Use version control right from the beginning of a new project.
 
    -  If in doubt, use `Git <https://git-scm.com/>`__.
    -  Implement a :doc:`Code Hosting Policy <../policies/code-hosting>`.
-   -  Use meaningful commit `messages <https://xkcd.com/1296/>`__.
+   -  Use meaningful commit `messages <https://xkcd.com/1296/>`__, cf. [ProGit]_ Sec. 5.2:
+      - Capitalised summary with a maximum of 50 characters followed by a blank line.
+      - Detailed but concise explanations in paragraphs or bullet points at 72 characters line length.
 
 #. Use an appropriate `OSI <https://opensource.org/licenses>`__ approved license.
 

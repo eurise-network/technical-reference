@@ -8,7 +8,7 @@ DARIAH Technical Reference
 
 This is the technical reference for the DARIAH Infrastructure. The documents contained in this repository are intended to form basic
 guidelines and references for development and maintenance of infrastructure services with DARIAH and beyond. They rely heavily on work by
-the community and in particular `CESSDA Eric <https://www.cessda.eu/>`__, `CLARIAH-NL <https://www.clariah.nl/>`__,
+the community and in particular `CESSDA ERIC <https://www.cessda.eu/>`__, `CLARIAH-NL <https://www.clariah.nl/>`__,
 `DARIAH-DE <https://de.dariah.eu/>`__ as well as the `Netherlands eScience Center <https://esciencecenter.nl/>`__ and the `UK Software
 Sustainability Institute <https://www.software.ac.uk>`__.
 
@@ -32,7 +32,6 @@ Management Plan <https://www.software.ac.uk/software-management-plans>`__.
    The Technical Reference has been written by |author_list|.
 
 
-
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -45,5 +44,5 @@ Management Plan <https://www.software.ac.uk/software-management-plans>`__.
 
    quality/software-checklist
    glossary
-
+   bibliography
 
