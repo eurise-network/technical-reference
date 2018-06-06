@@ -11,7 +11,7 @@ This should include:
    While the individual person should be free to choose the solution that best fits his or her need, the editor/IDE should provide standard
    features such as syntax highlighting and code completion for all relevant languages.
 
-   Use `EditorConfig <http://editorconfig.org/>`__ to ensure consistency of code submitted by all developers. In case others can contribute
+   Use `EditorConfig <https://editorconfig.org/>`__ to ensure consistency of code submitted by all developers. In case others can contribute
    to the software as well, it is recommended to add the respective ``.editorconfig`` to the software's repository.
 
 #. Code linting within the editor, as pre-commit hooks and part of further automation should be used.
@@ -26,4 +26,4 @@ This should include:
 
    -  `Travis CI <https://travis-ci.org/>`__
    -  `GitLab CI <https://about.gitlab.com/gitlab-ci/>`__
-   -  `Jenkins <https://jenkins-ci.org/>`__
+   -  `Jenkins <https://jenkins.io/>`__

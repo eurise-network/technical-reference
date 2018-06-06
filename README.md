@@ -24,10 +24,17 @@ make latexpdf
 ```
 
 
-To publish to the GitHub Pages do
+To publish to the GitHub Pages, make sure to commit your work and than do
 ```
+make clean html latexpdf epub
+cp _build/latex/TechnicalReference.pdf _build/epub/TechnicalReference.epub _build/html
+
+git branch -D gh-pages
+git add _build/html
+git commit -m "Deploy GH Pages"
 git subtree split --branch gh-pages --prefix _build/html/
 git push origin gh-pages --force
+git reset --hard HEAD~1
 ```
 
 
