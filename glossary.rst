@@ -1,3 +1,13 @@
+.. Don't use numbered chapter but unnumbered with TOC enty
+.. based on https://github.com/sphinx-doc/sphinx/issues/4775
+.. raw:: latex
+
+   \cleardoublepage
+   \begingroup
+   \renewcommand\chapter[1]{\endgroup\chapter*{#1}%
+     \addcontentsline{toc}{chapter}{#1}}
+   \phantomsection
+
 Glossary
 ========
 

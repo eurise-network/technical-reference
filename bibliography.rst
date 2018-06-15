@@ -1,3 +1,12 @@
+.. Bugfix, this removes additional chapter header
+.. https://github.com/sphinx-doc/sphinx/issues/4775
+.. raw:: latex
+
+   \cleardoublepage
+   \begingroup
+   \renewcommand\chapter[1]{\endgroup}
+   \phantomsection
+
 Bibliography
 ============
 
