@@ -63,7 +63,7 @@ communicated.
 Backup
 ^^^^^^
 
-As GitHub is owned by Microsoft Corporation, a commercial company, the service provided through GitHub is subject to change through
+As GitHub is owned by a commercial company (the Microsoft Corporation), the service provided through GitHub is subject to change through
 corporate development. It is highly recommended to set up an automated backup system, in order to ensure that a copy of all code and
 metadata (including issues, wikis etc.) exists.
 

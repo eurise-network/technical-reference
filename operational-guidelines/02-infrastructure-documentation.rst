@@ -11,4 +11,6 @@ Infrastructure Documentation
 
 #. Keep an inventory of all services that are offered and their dependencies with each other and the underlying infrastructure.
 
-#. Keep a record of :doc:`incidents <03-incidents>`.
+#. Implement :doc:`security <03-security>`.
+
+#. Keep a record of :doc:`incidents <04-incidents>`.
