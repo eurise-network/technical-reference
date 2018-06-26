@@ -1,7 +1,7 @@
 Operational Guidelines
 ======================
 
-For a generic collexction of IT Service Management, see e.g. [FitSM]_.
+For a generic collection of IT Service Management documents, see e.g. [FitSM]_.
 
 
 .. toctree::

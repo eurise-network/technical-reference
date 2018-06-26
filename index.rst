@@ -6,17 +6,16 @@
 DARIAH Technical Reference
 ==========================
 
-This is the technical reference for the DARIAH Infrastructure. The documents contained in this repository are intended to form basic
-guidelines and references for development and maintenance of infrastructure services with DARIAH and beyond. They rely heavily on work by
-the community and in particular `CESSDA ERIC <https://www.cessda.eu/>`__, `CLARIAH-NL <https://www.clariah.nl/>`__,
-`DARIAH-DE <https://de.dariah.eu/>`__ as well as the `Netherlands eScience Center <https://esciencecenter.nl/>`__ and the `UK Software
-Sustainability Institute <https://www.software.ac.uk>`__.
+This is the technical reference for the DARIAH Infrastructure. It is a collection of basic guidelines and references for development and
+maintenance of infrastructure services within DARIAH and beyond. This work relies heavily on work by the community and in particular
+`CESSDA ERIC <https://www.cessda.eu/>`__, `CLARIAH-NL <https://www.clariah.nl/>`__, `DARIAH-DE <https://de.dariah.eu/>`__ as well as the
+`Netherlands eScience Center <https://esciencecenter.nl/>`__ and the `UK Software Sustainability Institute <https://www.software.ac.uk>`__.
 
-This work also relies on the `Netherlands eScience Center Guide <https://guide.esciencecenter.nl/>`__ and the `CLARIAH Software Quality
+This work explicitly relies on the `Netherlands eScience Center Guide <https://guide.esciencecenter.nl/>`__ and the `CLARIAH Software Quality
 Guidelines <https://github.com/CLARIAH/software-quality-guidelines>`__.
 
-To make use of these guides, implementing an institutional manual based on this is recommended. In many places, choices are pointed out but
-should be made for a specific manual.
+To make use of these guides, implementing an institutional manual based on this is recommended. In many places, possible or required
+choices are pointed out and should be made for a specific manual.
 
 It is particularly recommended to adopt the `Recommendations to encourage best practices in research
 software <https://softdev4research.github.io/recommendations/>`__ whenever starting a new project.

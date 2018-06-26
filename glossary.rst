@@ -11,7 +11,7 @@
 Glossary
 ========
 
-This documents explains the terms used in the reference documents. See also `GitHub
+These are some of the most important terms used throughout. See also `GitHub
 Glossary <https://help.github.com/articles/github-glossary/>`__.
 
 -  *Collaborator* – Someone with write access to the repository.
