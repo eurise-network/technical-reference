@@ -1,4 +1,4 @@
-.. gdgd documentation master file, created by
+.. Technical Reference master file, created by
    sphinx-quickstart on Wed May 30 20:35:50 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -30,6 +30,12 @@ Management Plan <https://www.software.ac.uk/software-management-plans>`__.
    This documentation is also available as `PDF <TechnicalReference.pdf>`_ and `epub <TechnicalReference.epub>`_.
 
    The Technical Reference has been written by |author_list|.
+
+   .. image:: images/cc-by.*
+      :alt: CC-BY 4.0
+      :align: left
+
+This work is licensed under `Creative Commons Attribution 4.0 International <https://creativecommons.org/licenses/by/4.0/>`__.
 
 
 .. toctree::
