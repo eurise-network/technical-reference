@@ -29,9 +29,9 @@ author = ', '.join(authors)
 rst_epilog = '.. |author_list| replace:: %s' % author
 
 # The short X.Y version
-version = '0.1'
+version = '0.2'
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '0.2-SNAPSHOT'
 
 
 # -- General configuration ---------------------------------------------------
