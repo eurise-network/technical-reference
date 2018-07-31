@@ -1,8 +1,9 @@
-# DARIAH Technical Reference
+# Technical Reference
 
-This is the technical reference for the DARIAH Infrastructure.
+This is the common technical reference developed by the EURISE Network.
+
 The documents contained in this repository are intended to form basic guidelines and references
-for development and maintenance of infrastructure services with DARIAH and beyond.
+for development and maintenance of infrastructure services for the participating infrastructures and beyond.
 They rely heavily on work by the community and in particular
 [CESSDA ERIC](https://www.cessda.eu/), [CLARIAH-NL](https://www.clariah.nl/), [DARIAH-DE](https://de.dariah.eu/) as well as the
 [Netherlands eScience Center](https://esciencecenter.nl/) and the [UK Software Sustainability Institute](https://www.software.ac.uk).
@@ -42,6 +43,4 @@ git reset --hard HEAD~1
 
 The Technical Reference is still in early development.
 
-Work on these documents is carried out within “DESIR – DARIAH ERIC Sustainability Refined” for [DARIAH ERIC](https://www.dariah.eu/).
-This project has received funding from the European Union’s Horizon 2020
-research and innovation program under grant agreement 731081.
+

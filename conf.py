@@ -23,16 +23,16 @@ project = 'Technical Reference'
 copyright = '2018, CC-BY 4.0'
 with open('AUTHORS') as authorsfile:
     authorsstream = authorsfile.readlines()
-authors = [x.strip() for x in authorsstream]
-author = ', '.join(authors)
+authorlists = [x.strip() for x in authorsstream]
+contributors = ', '.join(authorlists)
+author = 'EURISE Network'
 
-rst_epilog = '.. |author_list| replace:: %s' % author
+rst_epilog = '.. |contributors| replace:: %s' % contributors
 
 # The short X.Y version
 version = '0.2'
 # The full version, including alpha/beta/rc tags
 release = '0.2-SNAPSHOT'
-
 
 # -- General configuration ---------------------------------------------------
 
@@ -83,6 +83,9 @@ pygments_style = 'sphinx'
 #
 html_theme = 'sphinx_rtd_theme'
 
+# The name of an image file to place at the top of the sidebar.
+html_logo = 'images/banner-white.svg'
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -112,11 +115,51 @@ htmlhelp_basename = 'TechnicalReferencedoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
+latex_engine = 'xelatex'
+
+latex_preamble = r'''\makeatletter
+\renewcommand{\maketitle}{%
+  \begin{titlepage}%
+    \let\footnotesize\small
+    \let\footnoterule\relax
+    \rule{\textwidth}{1pt}%
+    \begin{flushright}%
+      \sphinxlogo%
+      {\rm\Huge\py@HeaderFamily \@title \par}%
+      {\em\LARGE\py@HeaderFamily \py@release\releaseinfo \par}
+      \vfill
+      \vfill\vfill
+      {\large
+       \@date \par
+       \vfill
+       This work is licensed under \href{https://creativecommons.org/licenses/by/4.0/}{Creative Commons Attribution 4.0 International}.\par
+      }%
+    \end{flushright}%\par
+    \newpage
+        \textbf{Contributors}:\par
+        ''' + contributors + r'''
+        \par
+    \@thanks
+  \end{titlepage}%
+  \cleardoublepage%
+  \setcounter{footnote}{0}%
+  \let\thanks\relax\let\maketitle\relax
+}
+\makeatother
+\hypersetup{pdfauthor={''' + author + r'''},
+            pdftitle={''' + project + r'''}}
+'''
+
 
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'fontpkg': r'''
+\setmainfont{Linux Libertine O}
+\setsansfont{Linux Biolinum O}
+\setmonofont[Scale=0.83]{Bitstream Vera Sans Mono}
+''',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
@@ -125,6 +168,7 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     #
     # 'preamble': '',
+    'preamble': latex_preamble,
 
     # Latex figure (float) alignment
     #
@@ -138,6 +182,9 @@ latex_documents = [
     (master_doc, 'TechnicalReference.tex', 'Technical Reference',
      author, 'manual'),
 ]
+
+# The name of an image file to place at the top of the title page.
+latex_logo = 'images/banner-color.pdf'
 
 
 # -- Options for manual page output ------------------------------------------

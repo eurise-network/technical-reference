@@ -1,9 +1,0 @@
-title: DARIAH Technical Reference
-email: info@dariah.eu
-
-markdown: kramdown
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-readme-index
-
-repository: dariah-eric/technical-reference
