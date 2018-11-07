@@ -13,11 +13,11 @@ General
 -  [ ] Does the software (and its dependencies) use OSI approved licenses?
 -  [ ] Is the software under version control?
 -  [ ] Is there a website for the software?
--  [ ] Is the software's website mobile friendly to a certain degree? I.e. can it be accessed on a
-  smartphone or tablet without hiding the most important information and features?
--  [ ] Are the user interface design and the software's website mindful of accessibility? I.e. does it
-  consider e.g. a high contrast between colors for colorblind users, are there alternative texts for
-  images that can be read by a screenreader, are texts easily resizeable, ...?
+-  [ ] Is the software's website mobile friendly to a certain degree? I.e. can it be accessed on a smartphone or
+   tablet without hiding the most important information and features?
+-  [ ] Are the user interface design and the software's website mindful of accessibility? I.e. does it consider e.g.
+   a high contrast between colors for colorblind users, are there alternative texts for images that can be read by a
+   screenreader, are texts easily resizeable, ...?
 -  [ ] Does the software have a release mechanism?
 -  [ ] Is the software available in packaged format or only sources?
 -  [ ] Are maintainer and development status clear, including up to date and accessible contact information?
@@ -67,7 +67,7 @@ Administration
 --------------
 
 -  [ ] Are software requirements such as operating system, required libraries and dependencies specified including
-versions?
+   versions?
 -  [ ] Are hardware requirements for CPU, RAM, HDD, Network specified?
 -  [ ] Are there deployment instructions?
 -  [ ] Is there a comprehensive and fully documented example configuration?
