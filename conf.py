@@ -118,7 +118,7 @@ htmlhelp_basename = 'TechnicalReferencedoc'
 latex_engine = 'xelatex'
 
 latex_preamble = r'''\makeatletter
-\renewcommand{\maketitle}{%
+\renewcommand{\sphinxmaketitle}{%
   \begin{titlepage}%
     \let\footnotesize\small
     \let\footnoterule\relax
