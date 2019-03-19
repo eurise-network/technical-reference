@@ -1,5 +1,7 @@
 # Technical Reference
 
+[![Documentation Status](https://readthedocs.org/projects/technical-reference/badge/?version=latest)](https://technical-reference.readthedocs.io/en/latest/?badge=latest)
+
 This is the common technical reference developed by the EURISE Network.
 
 The documents contained in this repository are intended to form basic guidelines and references
@@ -10,7 +12,9 @@ They rely heavily on work by the community and in particular
 
 ## Working with the TR
 
-The documents are compiled with Sphinx, install everything to an venv
+The documents are compiled with Sphinx and automatically published on [Read the Docs](https://technical-reference.readthedocs.io/en/latest/) on commit.
+
+To work locally, install everything to an venv
 ```
 python3 -m venv venv
 source venv/bin/activate
@@ -22,26 +26,6 @@ Compile with
 make clean
 make html
 make latexpdf
-```
-
-
-To publish to the GitHub Pages, make sure to commit your work and than do
-```
-# build all files and put them in the right place
-make clean html latexpdf epub
-cp _build/latex/TechnicalReference.pdf _build/epub/TechnicalReference.epub _build/html
-
-# start fresh
-git branch -D gh-pages
-# add the new files to git to work with them
-git add _build/html
-git commit -m "Deploy GH Pages"
-# take the files out into a new branch
-git subtree split --branch gh-pages --prefix _build/html/
-# force the new files to the github page
-git push origin gh-pages --force
-# return to the previous state
-git reset --hard HEAD~1
 ```
 
 
