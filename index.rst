@@ -29,9 +29,6 @@ Management Plan <https://www.software.ac.uk/software-management-plans>`__.
 
 .. only:: html
 
-   Release |release|.
-   This documentation is also available as `PDF <TechnicalReference.pdf>`_ and `epub <TechnicalReference.epub>`_.
-
    The Technical Reference includes contributions by |contributors|.
 
    .. image:: images/cc-by.*
