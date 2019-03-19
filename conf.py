@@ -115,7 +115,7 @@ htmlhelp_basename = 'TechnicalReferencedoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-latex_engine = 'xelatex'
+latex_engine = 'pdflatex'
 
 latex_preamble = r'''\makeatletter
 \renewcommand{\sphinxmaketitle}{%
@@ -154,11 +154,6 @@ latex_preamble = r'''\makeatletter
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    'fontpkg': r'''
-\setmainfont{Linux Libertine O}
-\setsansfont{Linux Biolinum O}
-\setmonofont[Scale=0.83]{Bitstream Vera Sans Mono}
-''',
     'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
