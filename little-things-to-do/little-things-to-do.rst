@@ -37,4 +37,4 @@ We're looking forward to your PR to extend this list or discuss its recommendati
 #. Making developing in teams less painful
 
     - Commit early. Commit often.
-    - Think about adopting a branching model like git flow.
+    - Think about adopting a branching model like [git flow](https://nvie.com/posts/a-successful-git-branching-model/).
