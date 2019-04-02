@@ -49,6 +49,6 @@ This work is licensed under `Creative Commons Attribution 4.0 International <htt
    policies/index
 
    quality/software-checklist
+   little-things-to-do/little-things-to-do
    glossary
    bibliography
-
