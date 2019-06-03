@@ -8,8 +8,8 @@ EURISE Network Technical Reference
 
 This is the common Technical Reference developed by the EURISE Network.
 
-This is the common Technical Reference developed by the [EURISE Network](https://eurise-network.github.io/), a cooperation of
-[CESSDA ERIC](https://www.cessda.eu/), [CLARIN ERIC](https://www.clarin.eu/) and [DARIAH ERIC](https://www.dariah.eu/).
+This is the common Technical Reference developed by the `EURISE Network <https://eurise-network.github.io/>`__, a cooperation of
+`CESSDA ERIC <https://www.cessda.eu/>`__, `CLARIN ERIC <https://www.clarin.eu/>`__ and `DARIAH ERIC <https://www.dariah.eu/>`__.
 
 The EURISE Network Technical Reference, is a collection of guidelines and how-tos,
 mainly aimed at developers contributing to the participating infrastructures.
@@ -46,7 +46,6 @@ This work is licensed under `Creative Commons Attribution 4.0 International <htt
    operational-guidelines/index
    policies/index
 
-   quality/software-checklist
-   little-things-to-do/little-things-to-do
+   quality/index
    glossary
    bibliography

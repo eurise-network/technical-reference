@@ -16,6 +16,9 @@ Bibliography
 .. [Sirtfi] AARC: **Security Incident Response Trust Framework for Federated Identity**, https://aarc-project.eu/policies/sirtfi/, 2015
 .. [Snctfi] AARC: **Scalable Negotiator for a Community Trust Framework in Federated Infrastructures** https://aarc-project.eu/policies/snctfi/, 2017
 
-.. [NLeSCGuide] Netherlands eScience Center: **Guide**, https://guide.esciencecenter.nl/
-.. [CLARIAHsqg] CLARIAH: **Software Quality Guidelines**, <https://github.com/CLARIAH/software-quality-guidelines>
+.. [SQA-baseline] Orviz, Pablo; López García, Álvaro; Duma, Doina Cristina; Donvito, Giacinto; David, Mario; Gomes, Jorge: **A set of Common Software Quality Assurance Baseline Criteria for Research Projects**, https://indigo-dc.github.io/sqa-baseline/, 2019
+.. [CESSDA-SML] John Shepherdson: **CESSDA Software Maturity Levels**, https://doi.org/10.5281/zenodo.2614050, 2019
+
+.. [NLeSC-Guide] Netherlands eScience Center: **Guide**, https://guide.esciencecenter.nl/
+.. [CLARIAH-SQG] CLARIAH: **Software Quality Guidelines**, <https://github.com/CLARIAH/software-quality-guidelines>
 
