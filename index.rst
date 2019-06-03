@@ -6,20 +6,18 @@
 EURISE Network Technical Reference
 ==================================
 
-This is the common technical reference developed by the EURISE Network.
+This is the common Technical Reference developed by the EURISE Network.
 
-It is a collection of basic guidelines and references for development and
-maintenance of infrastructure services within DARIAH and beyond. This work relies heavily on work by the community and in particular
-`CESSDA ERIC <https://www.cessda.eu/>`__, `CLARIAH-NL <https://www.clariah.nl/>`__, `DARIAH-DE <https://de.dariah.eu/>`__ as well as the
-`Netherlands eScience Center <https://esciencecenter.nl/>`__ and the `UK Software Sustainability Institute <https://www.software.ac.uk>`__.
+This is the common Technical Reference developed by the [EURISE Network](https://eurise-network.github.io/), a cooperation of
+[CESSDA ERIC](https://www.cessda.eu/), [CLARIN ERIC](https://www.clarin.eu/) and [DARIAH ERIC](https://www.dariah.eu/).
 
-This work was started as part of the “DESIR – DARIAH ERIC Sustainability Refined” project for `DARIAH-EU <https://www.dariah.eu/>`__,
-receiving funding from the European Commission under grant agreement 731081.
-It explicitly relies on the `Netherlands eScience Center Guide <https://guide.esciencecenter.nl/>`__ and the
-`CLARIAH Software Quality Guidelines <https://github.com/CLARIAH/software-quality-guidelines>`__.
+The EURISE Network Technical Reference, is a collection of guidelines and how-tos,
+mainly aimed at developers contributing to the participating infrastructures.
+It serves as a combined introduction to many aspects of software engineering, while being neutral with respect to particular choices.
+This ensures the largest possible intersection of recommendations, while allowing the partners to implement their own specifications on top.
 
-To make use of these guides, implementing an institutional manual based on this is recommended. In many places, possible or required
-choices are pointed out and should be made for a specific manual.
+To make use of these guides, implementing an institutional manual based on this is recommended.
+In many places, possible or required choices are pointed out and should be made for a specific manual.
 
 It is particularly recommended to adopt the `Recommendations to encourage best practices in research
 software <https://softdev4research.github.io/recommendations/>`__ whenever starting a new project.

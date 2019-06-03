@@ -16,3 +16,6 @@ Bibliography
 .. [Sirtfi] AARC: **Security Incident Response Trust Framework for Federated Identity**, https://aarc-project.eu/policies/sirtfi/, 2015
 .. [Snctfi] AARC: **Scalable Negotiator for a Community Trust Framework in Federated Infrastructures** https://aarc-project.eu/policies/snctfi/, 2017
 
+.. [NLeSCGuide] Netherlands eScience Center: **Guide**, https://guide.esciencecenter.nl/
+.. [CLARIAHsqg] CLARIAH: **Software Quality Guidelines**, <https://github.com/CLARIAH/software-quality-guidelines>
+
