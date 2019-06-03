@@ -11,6 +11,7 @@ All development should be made available publicly under `open source <https://op
 
       - Capitalised summary with a maximum of 50 characters followed by a blank line.
       - Detailed but concise explanations in paragraphs or bullet points at 72 characters line length.
+      - Explain *what* you do and *why*, but *not how*.
 
 #. Use an appropriate `OSI <https://opensource.org/licenses>`__ approved license.
 
@@ -19,6 +20,7 @@ All development should be made available publicly under `open source <https://op
    -  If in doubt, choose `APACHE-2.0 <https://choosealicense.com/licenses/apache-2.0/>`__ or
       `EUPL-1.2 <https://choosealicense.com/licenses/eupl-1.2/>`__.
    -  Add the text in a ``LICENSE.txt``.
+   -  Add license statements to code files, consider using `SPDX <https://spdx.org/specifications>__` identifiers.
 
 #. Maintain a :doc:`README <02-readme>`.
 
@@ -35,5 +37,6 @@ All development should be made available publicly under `open source <https://op
 #. Add a code of conduct in a ``CODE_OF_CONDUCT.md``, like :download:`we do <../CODE_OF_CONDUCT.md>`.
 
 #. Specify contribution policies in a ``CONTRIBUTING.md``, like :download:`we do <../CONTRIBUTING.md>`.
+   Don't ignore `non-code contributions <https://allcontributors.org/docs/en/overview>`__.
    A legitimate policy can be that external contributions are not accepted and merged.
 
