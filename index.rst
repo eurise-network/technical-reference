@@ -6,8 +6,6 @@
 EURISE Network Technical Reference
 ==================================
 
-This is the common Technical Reference developed by the EURISE Network.
-
 This is the common Technical Reference developed by the `EURISE Network <https://eurise-network.github.io/>`__, a cooperation of
 `CESSDA ERIC <https://www.cessda.eu/>`__, `CLARIN ERIC <https://www.clarin.eu/>`__ and `DARIAH ERIC <https://www.dariah.eu/>`__.
 
