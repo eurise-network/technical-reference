@@ -15,4 +15,4 @@ Interoperability
 
 #. Provide endpoints for monitoring (service status) and statistics (user request and hardware utilisation).
 
-#. Use structured logging, e.g. [NSD JSON Schema](https://gitlab.nsd.no/logging/log-schema)
+#. Use structured logging, e.g. `NSD JSON Schema <https://gitlab.nsd.no/logging/log-schema>`__.
