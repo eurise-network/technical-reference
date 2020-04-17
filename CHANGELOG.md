@@ -5,7 +5,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+- Mention SPDX Identifiers and Git Flow
+- Move to Read-The-Docs and update introduction
 - Adding the list of little things to do
+- Extensions to Qulity Checklist
+- Re-Branding under EURISE Network
 
 ## [0.0.1] - 2018-06-28
 
@@ -16,4 +21,5 @@ Contains
 - Policy Recommendations
 - Software Quality Checklist 
 All content is built to PDF and HTML using sphinx-doc.
+
 
