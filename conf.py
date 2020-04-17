@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Technical Reference'
-copyright = '2019, CC-BY 4.0'
+copyright = '2020, CC-BY 4.0'
 with open('AUTHORS') as authorsfile:
     authorsstream = authorsfile.readlines()
 authorlists = [x.strip() for x in authorsstream]
