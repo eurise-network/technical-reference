@@ -14,7 +14,7 @@ knowledge.
    -  How-Tos
    -  FAQs
    -  Screen-casts
-   -  API documentation
+   -  API documentation, using `OpenAPI standard <https://swagger.io/>`__
 
 #. **Developer documentation**: Provide instructions for developers.
 
@@ -31,10 +31,10 @@ knowledge.
 
    Additionally, inline code documentation should be used as appropriate.
 
-   -  Always adhere to the language's standard or well established once such as the `Google Style Guides <https://google.github.io/styleguide/>`__.
+   -  Always adhere to the language's standard or well established ones such as the `Google Style Guides <https://google.github.io/styleguide/>`__.
    -  Document the *why* and not the *what*, cf. [CleanCode]_.
 
-#. **Administration documentation**: Provide instructions for installation, configuration and maintenance, in particular when as a daemon
+#. **Administration documentation**: Provide instructions for installation, configuration and maintenance, in particular when running as a daemon
    (e.g. a micro service).
 
    -  Configuration instructions

@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-- Mention SPDX Identifiers and Git Flow
+- Mention SPDX Identifiers and Git Flow and OpenAPI
 - Move to Read-The-Docs and update introduction
 - Adding the list of little things to do
 - Extensions to Qulity Checklist
