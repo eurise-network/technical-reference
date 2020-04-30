@@ -7,6 +7,6 @@ Release policy
 
 -  If applicable, provide binaries for all supported platforms.
 
--  Have a roadmap.
+-  Have a `roadmap <https://www.atlassian.com/agile/product-management/product-roadmaps>`__.
 
 -  Consider providing releases via research repositories with citable references.
