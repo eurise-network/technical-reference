@@ -13,6 +13,8 @@ All development should be made available publicly under `open source <https://op
       - Detailed but concise explanations in paragraphs or bullet points at 72 characters line length.
       - Explain *what* you do and *why*, but *not how*.
 
+   - Never include any secrets in the code.
+
 #. Use an appropriate `OSI <https://opensource.org/licenses>`__ approved license.
 
    -  Decide on an appropriate license before you first commit.
