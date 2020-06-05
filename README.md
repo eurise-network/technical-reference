@@ -47,6 +47,6 @@ make latexpdf
 The Technical Reference is still in early development and maintained by volunteers from the infrastructures involved.
 Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md), contributors are listed in [AUTHORS.md](AUTHORS.md).
 
-This work was originally started as part of the “DESIR – DARIAH ERIC Sustainability Refined” project for `DARIAH <https://www.dariah.eu/>`__,
+This work was originally started as part of the “DESIR – DARIAH ERIC Sustainability Refined” project for [DARIAH](https://www.dariah.eu/),
 receiving funding from the European Commission under grant agreement 731081 and has been transferred to the EURISE Network for future maintenance.
 
