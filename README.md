@@ -41,12 +41,21 @@ make html
 make latexpdf
 ```
 
+### Releases
+
+1. To release a new version, make sure all changes are commited to master.
+2. Switch to a new branch for the version
+3. Reflect the version in `conf.py`, both as `version` and release`.
+4. Make a release commit.
+5. Tag the commit with a release tag
+6. In the `master` branch, update `conf.py` for the next iteration.
+7. Commit the new cycle to master
 
 ## Development
 
 The Technical Reference is still in early development and maintained by volunteers from the infrastructures involved.
 Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md), contributors are listed in [AUTHORS.md](AUTHORS.md).
 
-This work was originally started as part of the “DESIR – DARIAH ERIC Sustainability Refined” project for `DARIAH <https://www.dariah.eu/>`__,
+This work was originally started as part of the “DESIR – DARIAH ERIC Sustainability Refined” project for [DARIAH](https://www.dariah.eu/),
 receiving funding from the European Commission under grant agreement 731081 and has been transferred to the EURISE Network for future maintenance.
 

@@ -6,20 +6,26 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-- Mention SPDX Identifiers and Git Flow and OpenAPI
-- Move to Read-The-Docs and update introduction
-- Adding the list of little things to do
-- Extensions to Qulity Checklist
-- Re-Branding under EURISE Network
+## [0.2] - 2020-06-05
 
-## [0.0.1] - 2018-06-28
+- Re-Branding under EURISE Network
+- Move to Read-The-Docs and update introduction
+- Mention SPDX Identifiers and Git Flow
+- Mention API versioning and OpenAPI 
+- Mention secrets and improve security considerations
+- Adding the list of little things to do
+- Extensions to Quality Checklist
+
+## [0.1] - 2018-06-28
 
 First release containing the work carried out in the DESIR project.
 Contains 
+
 - Developer Guidelines
 - Operational Guidelines
 - Policy Recommendations
 - Software Quality Checklist 
+
 All content is built to PDF and HTML using sphinx-doc.
 
 
