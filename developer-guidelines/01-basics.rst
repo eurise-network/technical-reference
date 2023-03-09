@@ -34,8 +34,9 @@ All development should be made available publicly under `open source <https://op
 
 #. Ensure your software is usable and accessible.
 
-#. Maintain human- and machine-readable citation information for your software in a ``CITATION.cff``. 
-Start with `an example <https://citation-file-format.github.io>`__ or use `a tool <https://citation-file-format.github.io/cff-initializer-javascript/>`__.
+#. Maintain human- and machine-readable citation information for your software in a ``CITATION.cff``.
+   Start with `an example <https://citation-file-format.github.io>`__
+   or use `a tool <https://citation-file-format.github.io/cff-initializer-javascript/>`__.
 
 #. Implement a :doc:`release policy <../policies/releasing>` and keep a :doc:`changelog <06-changelog>`.
 
